@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TorresCallejas_TC100321</string>
+    <string name="item_menu_configuracion">Configuracion</string>
+    <string name="item_menu_perfil">Ver Perfil</string>
+    <string name="item_menu_geolocalizacion">Mi Ubicacion</string>
+    <string name="item_menu_nuevacuenta">Crear Cuenta</string>
+    <string name="item_menu_salir">Cerrar Sesion</string>
+    <string name="texto_segunda_activity">CEsta es la segunda Activity</string>
+</resources>
